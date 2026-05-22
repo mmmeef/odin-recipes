@@ -2,3 +2,5 @@
 The Recipe Project
 
 I will be creating a simple recipe website to test my HTML knowledge. I want to work on getting comfortable with various parts of HTML through this project. I will come back to this page and go more in-depth on what I did and how I did it after the project is finished. 
+
+This was a good experience for me. I feel a lot more comfortable with making commits in general, but especially with making atomic commits. After working on the project for a bit, determining the tags and attributes I needed to use quickly became second nature. This also happened with the commit process as a whole, I feel like I have a much better grasp on it now. I had some issues with the images and attempting to size them to look how I wanted, but I think I will be able to make it look better as I learn more and add to the project. I just felt I was wasting a lot of time messing with the dimensions and needed to move on. I am looking forward to learning even more about HTML and making my pages look a lot prettier as I dive into CSS.
