@@ -1,4 +1,9 @@
 body{
     background-color: pink;
     font-family: sans-serif, Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+ul, ol {
+    display: inline-block;
+    text-align: left;
 }
