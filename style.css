@@ -10,6 +10,9 @@ body{
     color: black;
     padding: 25px 50px;
 }
+.btn:hover{
+    background-color: rgb(66, 135, 245);
+}
 .topbtn{
     padding: 25px 73px;
 }
