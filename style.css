@@ -9,3 +9,10 @@ body{
     color: black;
     padding: 25px 50px;
 }
+.topbtn{
+    padding-left: 96px;
+}
+.botbtn{
+    padding-left: 127px;
+    padding-right: 127px;
+}
