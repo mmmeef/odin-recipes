@@ -14,6 +14,11 @@ body{
     background-color:rgb(91, 206, 250);
     margin: auto 200px;
 }
+.home3{
+    border: 3px solid black;
+    background-color:rgb(91, 206, 250);
+    margin: auto 920px;    
+}
 
 ul, ol {
     display: inline-block;
