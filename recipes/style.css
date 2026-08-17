@@ -10,3 +10,8 @@ ul, ol {
 h1, h2 {
     text-decoration: underline;
 }
+h2{
+    box-sizing: border-box;
+    background-color:rgb(91, 206, 250);
+    margin: auto 275px;
+}
