@@ -1,6 +1,7 @@
 body{
     background-color: pink;
     font-family: sans-serif, Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
 }
 .btn{
     display: inline-block;
@@ -10,15 +11,9 @@ body{
     padding: 25px 50px;
 }
 .topbtn{
-    padding-left: 96px;
+    padding: 25px 73px;
 }
 .botbtn{
     padding-left: 127px;
     padding-right: 127px;
-}
-p{
-    text-align: center;
-}
-h1{
-    text-align: center;
 }
