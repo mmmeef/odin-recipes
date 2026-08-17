@@ -7,3 +7,6 @@ ul, ol {
     display: inline-block;
     text-align: left;
 }
+h1, h2 {
+    text-decoration: underline;
+}
