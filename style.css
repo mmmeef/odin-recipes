@@ -3,6 +3,7 @@ body {
     font-family: sans-serif, Georgia, 'Times New Roman', Times, serif;
     text-align: center;
 }
+
 .btn {
     display: inline-block;
     background-color: rgb(91, 206, 250);
@@ -10,16 +11,20 @@ body {
     color: black;
     padding: 25px 50px;
 }
+
 .btn:hover {
     background-color: rgb(66, 135, 245);
 }
+
 .topbtn {
     padding: 25px 73px;
 }
+
 .botbtn {
     padding-left: 127px;
     padding-right: 127px;
 }
+
 h1 {
     text-decoration: underline;
 }
